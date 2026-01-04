@@ -1,7 +1,7 @@
 <?php
 /**
  * Cloud Saves API
- * Place this file on your PRIVATE server
+ * Place this file on your PRIVATE server (not in the framework folder)
  *
  * Endpoints:
  *   POST ?action=save   → Save to cloud, returns {"success": true, "code": "ABCDE"}
